@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoJoiner", "VideoJoiner\VideoJoiner.csproj", "{CE4EB738-73B9-4DAA-BA40-A542A72E3E43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE4EB738-73B9-4DAA-BA40-A542A72E3E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4EB738-73B9-4DAA-BA40-A542A72E3E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4EB738-73B9-4DAA-BA40-A542A72E3E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4EB738-73B9-4DAA-BA40-A542A72E3E43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D1AEEE9-A081-41C7-80AD-3F8CD1DBE894}
+	EndGlobalSection
+EndGlobal
